@@ -1,0 +1,46 @@
+.outerContainer {
+    width: 100vw;
+    height: 100vh;
+}
+
+.leftContainer {
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+
+.rightContainer {
+    float: left;
+    width: 50%;
+    height: 100%;
+    padding: 30px 50px;
+    background-color: #E9F3FD;
+}
+
+.heading {
+    text-align: center;
+}
+
+.namesContainer {
+    width: 100%;
+    gap: 10px;
+    display: flex;
+}
+
+.passwordContainer {
+    width: 100%;
+    gap: 10px;
+    display: flex;
+}
+
+.passwordContainerLeft {
+    width: 50%;
+}
+
+.passConInput {
+    width: 50%;
+}
+
+.regButton {
+    margin-top: 50px;
+}
